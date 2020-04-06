@@ -1,1 +1,5 @@
-# Koch-Snowflake
+# Koch-Snowflake - colorful
+
+
+
+JupyterLab (Anaconda2)
