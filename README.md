@@ -2,7 +2,7 @@
 
 
 
-JupyterLab (Anaconda2)
+Spyder editor (Anaconda2) - Python 2.7.9
 
 
 
